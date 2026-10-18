@@ -1,0 +1,13 @@
+.gradle/
+app/build/
+build/
+local.properties
+*.iml
+.DS_Store
+*.keystore
+*.jks
+keystore.properties
+.playwright-mcp/
+
+# test builds are distributed out of band, never published
+*.apk
